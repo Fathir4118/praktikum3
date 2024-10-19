@@ -151,19 +151,18 @@ secara Default, .format() menggunakan rata kiri, angka ke kanan. kita dapat meng
 ![Screenshot 2024-10-15 141036](https://github.com/user-attachments/assets/5399a82d-2ead-4f0a-8e17-1d88e84c0029)
 
 Untuk hasil dari String Format 2 adalah :
-
-## Tugas Latihan
 ![Screenshot 2024-10-15 141347](https://github.com/user-attachments/assets/d63bee4a-8df3-45c2-8b6e-2b89604a9c90)
-
-# Flowchart Bilangan terbesar dari 3 buah bilangan
+## Tugas Latihan
 ![Screenshot 2024-10-15 142113](https://github.com/user-attachments/assets/9ea65194-c8e2-429c-9467-239bd76cedad)
 
-# Program bilangan terbesar dari 3 buah yg di inputkan
+# Flowchart Bilangan terbesar dari 3 buah bilangan
 ![Gambar WhatsApp 2024-10-17 pukul 00 34 59_95aec777](https://github.com/user-attachments/assets/1fe259a9-f0db-4bf9-9a9f-55381f773917)
 
-Hasil output
-
+# Program bilangan terbesar dari 3 buah yg di inputkan
 ![Screenshot 2024-10-17 222816](https://github.com/user-attachments/assets/bfcdd8e1-a718-4741-8388-0c0f6f9e56a4)
+
+Hasil output
+![Screenshot 2024-10-17 222919](https://github.com/user-attachments/assets/5748e259-c5bd-45bb-8fff-fadc70b90330)
 
 # Flowchart Bilangan terbesar dari N bilangan
 ![Gambar WhatsApp 2024-10-17 pukul 12 53 34_cd402e92](https://github.com/user-attachments/assets/bd6df8ad-0733-4d22-a152-4d345b0f494f)
