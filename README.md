@@ -48,7 +48,7 @@ print('z')
 ```
 Hasil dari source code tersebut seperti gambar dibawah ini :
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/5897a8fe928d65b7b12aa3a8408391ca3dfd490c/Screenshot%202024-10-15%20133640.png)
+![Screenshot 2024-10-15 133640](https://github.com/user-attachments/assets/ef44fa5f-a2ef-4dbc-a91d-1ffb53a372d8)
 
 Penggunaan separator
 Pendeklarasian beberapa variable beserta nilainya
@@ -78,11 +78,12 @@ print(w,x,y,z,sep="-----")
 ```
 hasil dari syntax / source code diatas adalah seperti berikut ini :
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/5897a8fe928d65b7b12aa3a8408391ca3dfd490c/Screenshot%202024-10-15%20133703.png)
+![Screenshot 2024-10-15 133703](https://github.com/user-attachments/assets/089dc55e-ba8e-4930-b2ee-ee42241bff68)
 
 ## LATIHAN 2
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/9b329a799a6e999ad0d62d0fa79e00a0392c3a39/Screenshot%202024-10-15%20135657.png)
+![Screenshot 2024-10-15 135657](https://github.com/user-attachments/assets/16cbeee1-5ed0-4192-8417-364c47dec8cc)
+
 ```python
 a=int(input("masukkan nilai a:"))
 b=int(input("masukkan nilai b:"))
@@ -98,13 +99,13 @@ print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 ```
 Kita akan coba lagi untuk run file tersebut, maka akan muncul seperti gambar dibawah ini :
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/2c18a50361f6617ac1c5624ae6ca16c2449b0885/Screenshot%202024-10-15%20140328.png)
+![Screenshot 2024-10-15 140328](https://github.com/user-attachments/assets/f33bc0bc-afad-4da8-b7cb-7baa5a9ece4d)
 
 String Format
 String formatting atau pemformatan string memungkinan kita menyuntikkan item kedalam string dari pada kita mencoba menggabungkan string menggunakan koma atau string concatenation.
 Penggunaan source code yang di berikan oleh dosen seperti berikut :
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/2c18a50361f6617ac1c5624ae6ca16c2449b0885/Screenshot%202024-10-15%20140431.png)
+![Screenshot 2024-10-15 140431](https://github.com/user-attachments/assets/ab9de958-0e2e-4c6b-8854-515217a8fdca)
 
 ```python
 #string format 1
@@ -138,7 +139,8 @@ Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, 
 Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )
 Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10, dengan output sebagai berikut :
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/77df8a18e59b99556aa69a5514bbdc67d555516d/Screenshot%202024-10-15%20141036.png)
+![Screenshot 2024-10-15 140328 (1)](https://github.com/user-attachments/assets/b415ca9d-00e1-42c0-a846-74bd2f0e45d0)
+
 
 2 * String Format 2*
 Pada syntax atau source code string format dua akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri )
@@ -146,29 +148,28 @@ Dengan ketentuan sebagai berikut :
 
 secara Default, .format() menggunakan rata kiri, angka ke kanan. kita dapat menggunakan opsi opsional <,^, atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan .format() sebagai berikut :
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/deb296e96f491981b8dede207ba1eb8456c03837/Screenshot%202024-10-15%20141347.png)
+![Screenshot 2024-10-15 141036](https://github.com/user-attachments/assets/5399a82d-2ead-4f0a-8e17-1d88e84c0029)
 
 Untuk hasil dari String Format 2 adalah :
 
 ## Tugas Latihan
-![gambar](https://github.com/andreanbadeh/fotoo/blob/fee7f554ebd75304da4d93e6eef690efad8d7166/Screenshot%202024-10-15%20142113.png)
+![Screenshot 2024-10-15 141347](https://github.com/user-attachments/assets/d63bee4a-8df3-45c2-8b6e-2b89604a9c90)
 
 # Flowchart Bilangan terbesar dari 3 buah bilangan
-![gambar](https://github.com/andreanbadeh/fotoo/blob/bd9e3adde0f5631af42bdff66f2ec22c17f9056e/Gambar%20WhatsApp%202024-10-17%20pukul%2000.34.59_95aec777.jpg)
+![Screenshot 2024-10-15 142113](https://github.com/user-attachments/assets/9ea65194-c8e2-429c-9467-239bd76cedad)
 
 # Program bilangan terbesar dari 3 buah yg di inputkan
-![gambar](https://github.com/andreanbadeh/fotoo/blob/5d260e088cd8f193f1e60434f5cd10c240a56f19/Screenshot%202024-10-17%20222816.png)
+![Gambar WhatsApp 2024-10-17 pukul 00 34 59_95aec777](https://github.com/user-attachments/assets/1fe259a9-f0db-4bf9-9a9f-55381f773917)
 
 Hasil output
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/5d260e088cd8f193f1e60434f5cd10c240a56f19/Screenshot%202024-10-17%20222919.png)
+![Screenshot 2024-10-17 222816](https://github.com/user-attachments/assets/bfcdd8e1-a718-4741-8388-0c0f6f9e56a4)
 
 # Flowchart Bilangan terbesar dari N bilangan
-![gambar](https://github.com/andreanbadeh/fotoo/blob/ce18dadba5891432472b0e35fe65ac9f347d661d/Gambar%20WhatsApp%202024-10-17%20pukul%2012.53.34_cd402e92.jpg)
+![Gambar WhatsApp 2024-10-17 pukul 12 53 34_cd402e92](https://github.com/user-attachments/assets/bd6df8ad-0733-4d22-a152-4d345b0f494f)
 
 # Program bilangan terbesar N 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/0d670d30789235f363332c5840dee4a8416d3b68/Screenshot%202024-10-17%20223514.png)
+![Screenshot 2024-10-17 223514](https://github.com/user-attachments/assets/124c1aeb-8836-44ed-80f8-d882efe94902)
 
 Hasil output
-
-![gambar](https://github.com/andreanbadeh/fotoo/blob/0d670d30789235f363332c5840dee4a8416d3b68/Screenshot%202024-10-17%20223553.png)
+![Screenshot 2024-10-17 223553](https://github.com/user-attachments/assets/d681e4c7-0cc9-488d-b38c-c9bed67ca054)
